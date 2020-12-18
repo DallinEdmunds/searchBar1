@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background: #e84118;
+    background: #144b8a;
 }
 .search-box:hover > .search-txt{
     width: 240px;
@@ -21,7 +21,7 @@ body{
     padding: 10px;
 }
 .search-btn{
-    color: #e84118;
+    color: #144b8a;
     float: right;
     width: 40px;
     height: 40px;
